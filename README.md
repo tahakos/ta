@@ -10,6 +10,15 @@ import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
 
 
+
+
+
+
+
+
+
+
+
 class MainActivity : AppCompatActivity() {
     var editText_sayi1: EditText? = null
     var editText_sayi2: EditText? = null
