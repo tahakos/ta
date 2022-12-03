@@ -9,7 +9,7 @@ import android.os.Bundle
 import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
 
-public void kontrol(View view){
+
 
 class MainActivity : AppCompatActivity() {
     var editText_sayi1: EditText? = null
