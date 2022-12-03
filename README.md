@@ -1,5 +1,7 @@
-# ta
-MP ODEV TK
+# TK 216924100 ODEV 
+mptkodev
+package com.example.mptkodev
+
 package com.example.mptkodev
 
 import android.R
